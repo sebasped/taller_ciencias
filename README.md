@@ -19,6 +19,7 @@
 + [Jupyter NB predador-presa (editable)](https://mybinder.org/v2/gh/sebasped/taller_ciencias/HEAD?urlpath=%2Fdoc%2Ftree%2Fpredador-presa.ipynb).
 + [Jupyter NB SIR (no editable)](https://sebasped.github.io/taller_ciencias/sir.html).
 + [Jupyter NB SIR (editable)](https://mybinder.org/v2/gh/sebasped/taller_ciencias/HEAD?urlpath=%2Fdoc%2Ftree%2Fsir.ipynb)
++ (El SIR tiene también un modelo discreto al final).
 
 ## SIR con retardo (y ecs. con retardo en general)
 
