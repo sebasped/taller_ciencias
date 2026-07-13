@@ -1,13 +1,16 @@
 # Entendiendo dinámica de poblaciones
 
+<!--
 ## Diapos info general
 
 + [Diapos taller](https://sebasped.github.io/taller_ciencias_2025/diapos_Taller_ensenianza_ciencias_2025.pdf).
-
+-->
 
 ## Modelos discretos
 
 + [Pluto NB interactiva epidemias](http://julia.dm.uba.ar:8008/zombis_long.html).
++ [(backup con mybinder para emergencias)](https://mybinder.org/v2/gh/iojea/zombis/main?urlpath=pluto/open?path=/home/jovyan/notebooks/zombis_long.jl).
++ [(backup con mybinder para emergencias, la versión no tan larga)](https://mybinder.org/v2/gh/iojea/zombis/main?urlpath=pluto/open?path=/home/jovyan/notebooks/zombis_short.jl).
 
 
 ## Modelos continuos
