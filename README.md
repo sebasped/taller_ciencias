@@ -12,8 +12,9 @@
 
 ## Modelos continuos
 
-+ [Jupyter NB predador-presa](https://sebasped.github.io/taller_ciencias_2025/predador-presa.html).
-+ [Jupyter NB SIR](https://sebasped.github.io/taller_ciencias_2025/sir.html).
++ [Jupyter NB predador-presa (no editable](https://sebasped.github.io/taller_ciencias/predador-presa.html).
++ [Jupyter NB predador-presa (editable](https://mybinder.org/v2/gh/sebasped/taller_ciencias/HEAD?urlpath=%2Fdoc%2Ftree%2Fpredador-presa.ipynb).
++ [Jupyter NB SIR](https://sebasped.github.io/taller_ciencias/sir.html).
 
 
 ## Material de la casa para profundizar
