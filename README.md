@@ -26,4 +26,4 @@
 
 ## Consultas, correcciones o sugerencias
 
-Escribir a `spedersen@dm.uba.ar` o a `pgperrella@gmail.com`.
+Escribir a `spedersen@dm.uba.ar`.
