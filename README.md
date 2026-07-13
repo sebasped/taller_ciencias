@@ -22,7 +22,7 @@
 
 ## SIR con retardo (y ecs. con retardo en general)
 
-+ [Diapos DDEs](https://sebasped.github.io/taller_ciencias_2025/diapos_Taller_ensenianza_ciencias_2025.pdf).
++ [Diapos DDEs](https://sebasped.github.io/taller_ciencias_2025/dde_salto_jul2026.pdf).
 
 
 ## Material de la casa para profundizar
