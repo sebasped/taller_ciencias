@@ -7,7 +7,7 @@
 -->
 
 ## Modelos discretos
-http://julia.dm.uba.ar:8008/zombis_short.html
+
 + [Pluto NB interactiva epidemia zombies](http://julia.dm.uba.ar:8008/zombis_long.html).
 + [(Zombies interactiva no tan larga)](http://julia.dm.uba.ar:8008/zombis_short.html).
 + [(backup con mybinder para emergencias)](https://mybinder.org/v2/gh/iojea/zombis/main?urlpath=pluto/open?path=/home/jovyan/notebooks/zombis_long.jl).
