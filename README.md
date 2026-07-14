@@ -22,9 +22,15 @@
 + [Jupyter NB SIR (editable)](https://mybinder.org/v2/gh/sebasped/taller_ciencias/HEAD?urlpath=%2Fdoc%2Ftree%2Fsir.ipynb)
 + (El SIR tiene también un modelo discreto al final).
 
+
 ## SIR con retardo (y ecs. con retardo en general)
 
 + [Diapos DDEs](https://sebasped.github.io/taller_ciencias/dde_salto_jul2026.pdf).
+
+
+## Shooting, grado topológico
+
++ Si hay ganas, cuento algo.
 
 
 ## Material de la casa para profundizar
