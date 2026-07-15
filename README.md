@@ -25,7 +25,8 @@
 
 ## SIR con retardo (y ecs. con retardo en general)
 
-+ [Diapos DDEs](https://sebasped.github.io/taller_ciencias/dde_salto_jul2026.pdf).
++ [Diapos DDEs (de una charla que dí)](https://sebasped.github.io/taller_ciencias/dde_salto_jul2026.pdf).
++ (Solamente las primeras de "motivación del retardo". El resto es para profundizar quien lo desee).
 
 
 ## Shooting, grado topológico
