@@ -31,7 +31,7 @@
 
 ## Shooting, grado topológico
 
-+ Si hay ganas, cuento algo.
++ Si hay ganas, cuento algo en el pizarrón.
 
 
 ## Material de la casa para profundizar
